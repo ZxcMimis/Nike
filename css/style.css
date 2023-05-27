@@ -1,0 +1,258 @@
+.header-link {
+    font-family: 'Roboto';
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 1.17;
+
+    color: #C7C7C7;
+
+}
+
+.header-item {
+    font-family: 'Roboto';
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 1.17;
+
+    color: #DCDCDC;
+
+}
+
+.hero-abr {
+    font-family: 'PT Serif';
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 1.33;
+
+    color: #FFFFFF;
+
+}
+
+.hero-title {
+    font-family: 'Playfair Display';
+    font-weight: 400;
+    font-size: 144px;
+    line-height: 1.33;
+
+
+    color: #FFFFFF;
+
+}
+
+.hero-subtitle {
+    font-family: 'Playfair Display';
+    font-weight: 400;
+    font-size: 72px;
+    line-height: 1.36;
+
+
+    color: #FFFFFF;
+
+}
+
+.hero-text {
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.17;
+
+    color: #FFFFFF;
+
+}
+
+.hero-button {
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 1.17;
+
+    color: #FFFFFF;
+
+}
+
+.proses-text {
+    font-family: 'Salsa';
+    font-weight: 400;
+    font-size: 170px;
+    line-height: 1.69;
+
+    color: #FFFFFF;
+
+
+}
+
+
+.proses-title {
+    font-family: 'Playfair Display';
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 1.33;
+
+
+}
+
+.boots-title {
+    font-family: 'Playfair Display';
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 1.35;
+
+    color: #FFFFFF;
+
+}
+
+.boots-text {
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 1.18;
+
+    color: #FFFFFF;
+}
+
+.reviews-title {
+    font-family: 'Playfair Display';
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 1.33;
+    text-align: center;
+
+    color: #FFFFFF;
+
+}
+
+.reviews-text {
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 1.17;
+
+    color: #FFFFFF;
+
+}
+
+.reviews-time {
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.14;
+
+    color: #D8D8D8;
+
+}
+
+.reviews-name {
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.14;
+
+    color: #FFFFFF;
+
+}
+
+.reviews-info {
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 1.17;
+
+
+    color: #D8D8D8;
+
+}
+
+
+.order-title {
+    font-family: 'Playfair Display';
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 1.33;
+
+
+    color: #FFFFFF;
+
+}
+
+.button-confirm {
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 1.18;
+
+    color: #8D8D8D;
+
+}
+
+
+.order-item:first-child .order-input::placeholder {
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 1.17;
+
+    color: #959595;
+
+}
+
+.order-input::placeholder {
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 1.17;
+
+    color: #959595;
+
+}
+
+.order-button {
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 1.17;
+
+    color: #FFFFFF;
+
+}
+
+.footer-text {
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 1.17;
+
+    color: #FFFFFF;
+
+}
+
+.footer-mail {
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 1.17;
+    text-decoration-line: underline;
+
+    color: #FFFFFF;
+
+}
+
+.footer-country {
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.17;
+
+
+    color: #FFFFFF;
+
+}
+
+.footer-abr {
+    font-family: 'PT Serif';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 1.33;
+
+    color: #FFFFFF;
+
+}

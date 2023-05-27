@@ -6,6 +6,13 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Document</title>
+  <link rel="stylesheet" href="./css/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Lora&family=PT+Serif&family=Playfair+Display&family=Roboto&display=swap"
+    rel="stylesheet">
+
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/modern-normalize/2.0.0/modern-normalize.min.css"
     integrity="sha512-4xo8blKMVCiXpTaLzQSLSw3KFOVPWhm/TRtuPVc4WG6kUgjH6J03IBuG7JZPkcWMxJ5huwaBpOpnwYElP/m6wg=="
     crossorigin="anonymous" referrerpolicy="no-referrer" />
@@ -82,7 +89,7 @@
 
     </section>
     <section class="reviews">
-      <h2>Reviews</h2>
+      <h2 class="reviews-title">Reviews</h2>
       <ul class="reviews-list">
         <li class="reviews-item">
           <p class="reviews-text">
@@ -120,17 +127,38 @@
       <h2 class="order-title">Order</h2>
       <form class="order-form">
         <button type="button" class="button-confirm">Confirm </button>
-      <ul class="order-list">
-        <li class="order-item"><input type="text" class="order-input" placeholder="Write your email"></li>
-        <li class="order-item"><input type="text" class="order-input" placeholder="Your Country" ></li>
-        <li class="order-item"><input type="text" class="order-input" placeholder="Your City"></li>
-        <li class="order-item"><input type="text" class="order-input" placeholder="Your Adress"></li>
-      </ul>
-      <button type="submit" class="order-button">Order my Nike</button>
-    </form>
+        <ul class="order-list">
+          <li class="order-item"><input type="text" class="order-input" placeholder="Write your email"></li>
+          <li class="order-item"><input type="text" class="order-input" placeholder="Your Country"></li>
+          <li class="order-item"><input type="text" class="order-input" placeholder="Your City"></li>
+          <li class="order-item"><input type="text" class="order-input" placeholder="Your Adress"></li>
+        </ul>
+        <button type="submit" class="order-button">Order my Nike</button>
+      </form>
     </section>
 
   </main>
+
+  <footer>
+    <ul class="footer-list">
+      <li class="footer-item">
+        <p class="footer-text">Have a question?</p>
+        <a href="mailto:ColoRawe_support@gmail.com" class="footer-mail">ColoRawe_support@gmail.com</a>
+      </li>
+      <li class="footer-item">
+        <p class="footer-text">Have a proposal for cooperation?</p>
+        <a href="mailto:ColoRawe_Cooperation@gmail.com" class="footer-mail">ColoRawe_Cooperation@gmail.com</a>
+      </li>
+      <li class="footer-item">
+        <p class="footer-text">Advertising questions?</p>
+        <a href="mailto:ColoRawe_Advertising@gmail.com" class="footer-mail">ColoRawe_Advertising@gmail.com</a>
+      </li>
+    </ul>
+    <p class="footer-country">2022 ColoRawe @All rights reserved</p>
+    <p class="footer-country">United States</p>
+    <img src="./images/Nike.png" alt="Nike">
+    <p class="footer-abr">С&R</p>
+  </footer>
 </body>
 
 </html>
